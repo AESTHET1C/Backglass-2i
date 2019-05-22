@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "\"Backglass 2\" Pinball Controller"
 Date "2019-05-22"
-Rev "2.0"
+Rev "2.1"
 Comp "Ana Tavares"
 Comment1 ""
 Comment2 ""
@@ -1145,7 +1145,7 @@ F 3 "" H 7200 8900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 600  8200 0    100  ~ 20
-I/O
+I/O (TO UPDATE)
 Text Notes 5700 8200 0    100  ~ 20
 Output Drivers
 $Comp

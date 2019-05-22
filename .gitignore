@@ -1,3 +1,4 @@
 #Ignore kicad project files
 *.pro
 *.bak
+*.kicad_pcb-bak
