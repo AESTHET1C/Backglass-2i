@@ -1,4 +1,8 @@
-# Backglass 2 Pinball Controller Board
+# Backglass 2 Integrated Pinball Controller Board
+
+This is the "integrated" version of the [Backglass 2 Pinball Controller Board](https://github.com/AESTHET1C/Backglass-2). The I/O has been changed from wire receptacles to a ribbon cable, and the ordering has changed to better suit wire management.
+
+---
 
 An Arduino Uno-compatible unified control board tailored to the Eli Whitney Museum 2019 summer pinball project.
 
